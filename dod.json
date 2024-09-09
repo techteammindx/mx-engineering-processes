@@ -1,0 +1,94 @@
+[
+  {
+    "Category": "Code Quality",
+    "Checklist Item": "Code is written and reviewed"
+  },
+  {
+    "Category": "Code Quality",
+    "Checklist Item": "Code is merged into the target branch"
+  },
+  {
+    "Category": "Code Quality",
+    "Checklist Item": "Code passed quality gate"
+  },
+  {
+    "Category": "Code Quality",
+    "Checklist Item": "Code is free of critical bugs"
+  },
+  {
+    "Category": "Code Quality",
+    "Checklist Item": "Core architecture of the team is followed"
+  },
+  {
+    "Category": "Testing",
+    "Checklist Item": "Unit tests are written and passed"
+  },
+  {
+    "Category": "Testing",
+    "Checklist Item": "End-to-end tests are successful"
+  },
+  {
+    "Category": "Documentation",
+    "Checklist Item": "Technical design is updated and approved"
+  },
+  {
+    "Category": "Documentation",
+    "Checklist Item": "Relevant documentation is updated"
+  },
+  {
+    "Category": "Compliance",
+    "Checklist Item": "Credentials (API Keys, Secret Keys, ...) are secured"
+  },
+  {
+    "Category": "Site Reliability",
+    "Checklist Item": "Monitoring script is developed"
+  },
+  {
+    "Category": "Site Reliability",
+    "Checklist Item": "Logging is setup"
+  },
+  {
+    "Category": "Site Reliability",
+    "Checklist Item": "Alert rules are developed"
+  },
+  {
+    "Category": "Deployment",
+    "Checklist Item": "Config for target environment is prepared"
+  },
+  {
+    "Category": "Deployment",
+    "Checklist Item": "Code is deployed to a target environment"
+  },
+  {
+    "Category": "Deployment",
+    "Checklist Item": "Quality check is setup in CI/CD (Sonar ...)"
+  },
+  {
+    "Category": "Deployment",
+    "Checklist Item": "Live version is tested"
+  },
+  {
+    "Category": "Deployment",
+    "Checklist Item": "Deployment scripts are tested"
+  },
+  {
+    "Category": "Deployment",
+    "Checklist Item": "New version of library is tagged"
+  },
+  {
+    "Category": "Deployment",
+    "Checklist Item": "Database indexing script is written and tested"
+  },
+  {
+    "Category": "Product Metrics",
+    "Checklist Item": "Product metrics are setup"
+  },
+  {
+    "Category": "User Acceptance",
+    "Checklist Item": "User acceptance criteria are met"
+  },
+  {
+    "Category": "Miscellaneous",
+    "Checklist Item": "All tasks related to the Work Item (User Story ...) are completed"
+  }
+]
