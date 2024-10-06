@@ -3,9 +3,25 @@ marp: true
 theme: default
 paginate: true
 style: |
+  @import url('https://fonts.googleapis.com/css2?family=Exo:wght@400;700&display=swap');
+  * {
+    font-family: 'Exo', sans-serif; /* Set Exo as the default font */
+  }
   table {
     font-size: 0.8em; /* Adjust the size as needed */
   }
+  .logo {
+    position: absolute;
+    top: 20px; /* Adjust vertical position */
+    right: 20px; /* Adjust horizontal position */
+    width: 100px; /* Set the width of the logo */
+    height: auto; /* Maintain aspect ratio */
+  }
+  h1 {
+    color: #cc0000; /* Change the color of titles */
+  }
+header: |
+  ![Logo](./images/logo.png)
 ---
 
 <!-- Slide 1: Title Slide -->
@@ -126,12 +142,12 @@ style: |
 ## Identify Solution
 - **Effective Solution:** Determine the most appropriate solution based on the diagnosis.
 
+- **Timeline Communication:** Inform the customer about the timeline for complex issues.
+- **Regular Updates:** Provide consistent updates to keep the customer informed.
+
 ## Implement Solution
 - **Apply Fix:** Implement the solution and verify the issue is resolved.
 
-## Long-Term Issues
-- **Timeline Communication:** Inform the customer about the timeline for complex issues.
-- **Regular Updates:** Provide consistent updates to keep the customer informed.
 
 ---
 
@@ -176,15 +192,11 @@ style: |
 
 # Competencies Breakdown
 
-## 1. Communication Skills
-
-## 2. Problem-Solving Abilities
-
-## 3. Technical Knowledge
-
-## 4. Patience and Resilience
-
-## 5. Analytical Skills
+1. Communication Skills
+2. Problem-Solving Abilities
+3. Technical Knowledge
+4. Patience and Resilience
+5. Analytical Skills
 
 ---
 
@@ -258,8 +270,6 @@ style: |
 - **Technical Expertise:** Become a go-to resource for advanced product knowledge.
 - **Customer Relationships:** Achieve a 95% customer satisfaction rating on all resolved tickets.
 - **Process Improvement:** Propose and implement two process improvements based on trend analysis.
-
-*Insert Timeline or Milestone Chart Visualizing Progression Over Weeks and Months*
 
 ---
 
