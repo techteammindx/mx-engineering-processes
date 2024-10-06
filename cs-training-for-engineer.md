@@ -21,7 +21,7 @@ style: |
     color: #cc0000; /* Change the color of titles */
   }
 header: |
-  ![Logo](./images/logo.png)
+  ![Logo](https://raw.githubusercontent.com/techteammindx/mx-engineering-processes/refs/heads/main/images/logo.png)
 ---
 
 <!-- Slide 1: Title Slide -->
