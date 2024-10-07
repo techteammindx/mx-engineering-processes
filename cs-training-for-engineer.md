@@ -293,7 +293,7 @@ header: |
 
 ## Capacity Planning For One Engineer
 
-| **Week**   | **Tickets per Day** | **Class of Service**                  |
+| **Week**   | **Tickets per 8 hours** | **Class of Service**                  |
 |------------|--------------------------|---------------------------------------|
 | **1** | 4-5 tickets              | **Standard, Fixed Deadline (Safe)**      |
 | **2** | 6-7 tickets              | Standard, Fixed Deadline (Safe)      |
